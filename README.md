@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-I am a professional **Mobile Developer** with expertise in **Flutter & Dart**, passionate about creating modern and scalable mobile applications. My work is driven by three core principles:
+I am a **Mobile Developer** with expertise in **Flutter & Dart**, passionate about creating modern and scalable mobile applications. My work is driven by three core principles:
 - 🎯 High Performance
 - 🎨 Intuitive User Experience
 - 💡 Innovative Solutions
@@ -55,15 +55,6 @@ const backendStack = {
 - 📈 **Performance**: Optimization and efficient resource usage
 - 🤝 **Collaboration**: Strong team communication and documentation
 
-## 📈 GitHub Analytics
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=yasinkaracan&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats-sigma-five.vercel.app/?user=yasinkaracan&theme=radical)
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yasinkaracan&layout=compact&theme=radical)
-
-</div>
 
 ## 📫 Let's Connect!
 
